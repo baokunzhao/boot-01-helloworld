@@ -1,9 +1,7 @@
 package com.demo1;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class Demo1 {
 
@@ -20,6 +18,10 @@ public class Demo1 {
         test1();
 
         test();
+
+        System.out.println(10 >> 1);
+
+
 
     }
 
@@ -45,6 +47,18 @@ public class Demo1 {
      * 我是注释
      */
     public static void test() {
+
+//        List<String> list = new ArrayList<>();
+        List<String> list = Collections.synchronizedList(new ArrayList<>());// 线程安全类
+        List<String> list2 = new CopyOnWriteArrayList<>();
+
+        list.add("a");
+        list.add("b");
+        list.add("c");
+
+        list.forEach(System.out::println);
+
+
 
 
     }

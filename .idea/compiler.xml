@@ -6,11 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SptringBootDemo" />
         <module name="WebDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SptringBootDemo" target="1.8" />
       <module name="WebDemo" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SptringBootDemo" options="-parameters" />
+    </option>
   </component>
 </project>
