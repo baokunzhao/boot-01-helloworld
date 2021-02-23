@@ -1,4 +1,4 @@
-package com.demo1;
+package com.juc.demo;
 
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;

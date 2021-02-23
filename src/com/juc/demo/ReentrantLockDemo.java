@@ -1,4 +1,4 @@
-package com.demo1;
+package com.juc.demo;
 
 /**
  * @Created on 2021/2/21.

@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SptringBootDemo/SptringBootDemo.iml" filepath="$PROJECT_DIR$/SptringBootDemo/SptringBootDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebDemo/WebDemo.iml" filepath="$PROJECT_DIR$/WebDemo/WebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SptringBootDemo/demo.iml" filepath="$PROJECT_DIR$/SptringBootDemo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/project01.iml" filepath="$PROJECT_DIR$/project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SptringBootDemo/.mvn/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/SptringBootDemo/.mvn/wrapper/wrapper.iml" />
     </modules>
   </component>
 </project>
