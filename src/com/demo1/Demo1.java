@@ -3,6 +3,7 @@ package com.demo1;
 import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 
+
 public class Demo1 {
 
     public String str = "1221";
