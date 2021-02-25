@@ -13,6 +13,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="WebDemo" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: cglib:cglib:2.2" />
+          <element id="library" level="project" name="Maven: asm:asm:3.1" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/WebDemo/target/WebDemo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
