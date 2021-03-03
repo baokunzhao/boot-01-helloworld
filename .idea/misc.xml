@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/WebDemo/pom.xml" />
         <option value="$PROJECT_DIR$/SptringBootDemo/pom.xml" />
         <option value="$PROJECT_DIR$/Demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot2/boot-01-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot2/boot-01-helloworld-2/pom.xml" />
       </list>
     </option>
   </component>

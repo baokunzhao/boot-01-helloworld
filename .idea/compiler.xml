@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="WebDemo" />
+        <module name="boot-01-helloworld-2" />
         <module name="Demo1" />
+        <module name="boot-01-helloworld" />
         <module name="SptringBootDemo" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="boot-01-helloworld" target="1.8" />
+      <module name="boot-01-helloworld-2" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="Demo1" target="8" />
       <module name="SptringBootDemo" target="1.8" />
@@ -25,6 +29,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SptringBootDemo" options="-parameters" />
+      <module name="boot-01-helloworld" options="-parameters" />
+      <module name="boot-01-helloworld-2" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>

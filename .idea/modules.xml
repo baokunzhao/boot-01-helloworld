@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Demo1/Demo1.iml" filepath="$PROJECT_DIR$/Demo1/Demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SptringBootDemo/SptringBootDemo.iml" filepath="$PROJECT_DIR$/SptringBootDemo/SptringBootDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebDemo/WebDemo.iml" filepath="$PROJECT_DIR$/WebDemo/WebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot2/boot-01-helloworld/boot-01-helloworld.iml" filepath="$PROJECT_DIR$/../springboot2/boot-01-helloworld/boot-01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot2/boot-01-helloworld-2/boot-01-helloworld-2.iml" filepath="$PROJECT_DIR$/../springboot2/boot-01-helloworld-2/boot-01-helloworld-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SptringBootDemo/demo.iml" filepath="$PROJECT_DIR$/SptringBootDemo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/project01.iml" filepath="$PROJECT_DIR$/project01.iml" />
     </modules>
